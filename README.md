@@ -73,6 +73,7 @@ We distribute the image url with long captions under a standard Creative Common 
   booktitle={ECCV},
   year={2024}
 }
+```
 
 ### Acknowledgements
 This dataset is based on [CC3M](https://huggingface.co/datasets/pixparse/cc3m-wds), and thanks for the nice work! 
