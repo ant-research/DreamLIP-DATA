@@ -31,6 +31,7 @@ size_categories:
 <tr>
 <td align="center">YFCC15M</td>
 <td align="center">TODO</td>
+<td align="center">TODO</td>
 </tr>
 </tbody></table>
 
