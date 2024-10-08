@@ -14,7 +14,6 @@ size_categories:
 <!-- START TABLE -->
 <!-- TABLE HEADER -->
 <th valign="center">Raw/Long/Short Caption</th>
-<th valign="center">Goole Drive</th>
 <th valign="center">Huggingface Dataset</th>
 
 <!-- TABLE BODY -->
