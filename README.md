@@ -19,19 +19,8 @@ size_categories:
 
 <!-- TABLE BODY -->
 <tr>
-<td align="center">CC3M</td>
-<td align="center"><a href="https://drive.google.com/file/d/1RPcFS8jrVolA9RzHXD581E8BxR7jYDap/view?usp=sharing">Link</a></td>
+<td align="center">CC3M+YFCC15M+CC12M</td>
 <td align="center"><a href="https://huggingface.co/datasets/qidouxiong619/dreamlip_long_captions">Link</a></td>
-</tr>
-<tr>
-<td align="center">CC12M</td>
-<td align="center"><a href="https://drive.google.com/file/d/12iUhceznPNWd-l_bGSF5rSnzdruP4Jtr/view?usp=sharing">Link</a></td>
-<td align="center"><a href="https://huggingface.co/datasets/qidouxiong619/dreamlip_long_captions">Link</a></td>
-</tr>
-<tr>
-<td align="center">YFCC15M</td>
-<td align="center">TODO</td>
-<td align="center">TODO</td>
 </tr>
 </tbody></table>
 
